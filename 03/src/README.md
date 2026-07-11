@@ -20,7 +20,7 @@ Apply complete! Resources: 3 added, 0 changed, 0 destroyed.
 
 Входящие правила группы безопасности `example_dynamic` (SSH 22, HTTP 80, HTTPS 443):
 
-![Входящие правила security group](screenshots/task1-security-group.png)
+![Входящие правила security group](screenshots/ДЗ_3_1.png)
 
 ---
 
@@ -282,7 +282,7 @@ FQDN сформированы автоматически (зона `auto.interna
 
 Скриншот файла:
 
-![hosts.ini](screenshots/task4-hosts-ini.png)
+![hosts.ini](screenshots/ДЗ_3_4.png)
 
 ---
 
